@@ -54,12 +54,10 @@ const intern5 = {
   gender: 'F'
 }
 
-
-
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
 
-// Mitzi's name
+// Mitzi's name 
 
 // Kennan's ID
 
@@ -68,6 +66,18 @@ const intern5 = {
 // Gannie's name
 
 // Antonietta's Gender
+
+console.log(intern1.firstname);
+
+console.log(intern2.id);
+
+console.log(intern3.email);
+
+console.log(intern4.firstname);
+
+console.log(intern5.gender);
+
+
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
